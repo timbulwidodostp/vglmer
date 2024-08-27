@@ -1,6 +1,8 @@
 # vglmer
 Variational generalized linear mixed effects regression Use vglmer With (In) R Software
 
+https://www.youtube.com/watch?v=ck7exgiWli4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
